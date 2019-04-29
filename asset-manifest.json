@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/listaCompras/static/css/main.c80589d2.chunk.css",
+    "main.js": "/listaCompras/static/js/main.2fe1d268.chunk.js",
+    "main.js.map": "/listaCompras/static/js/main.2fe1d268.chunk.js.map",
+    "runtime~main.js": "/listaCompras/static/js/runtime~main.0e402d3a.js",
+    "runtime~main.js.map": "/listaCompras/static/js/runtime~main.0e402d3a.js.map",
+    "static/js/2.5f344593.chunk.js": "/listaCompras/static/js/2.5f344593.chunk.js",
+    "static/js/2.5f344593.chunk.js.map": "/listaCompras/static/js/2.5f344593.chunk.js.map",
+    "index.html": "/listaCompras/index.html",
+    "precache-manifest.845ef66e86771daaee533b4b327e1bec.js": "/listaCompras/precache-manifest.845ef66e86771daaee533b4b327e1bec.js",
+    "service-worker.js": "/listaCompras/service-worker.js",
+    "static/css/main.c80589d2.chunk.css.map": "/listaCompras/static/css/main.c80589d2.chunk.css.map"
+  }
+}
