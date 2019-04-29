@@ -1,0 +1,5 @@
+.w3-label{padding:8px;display:block;width:100%}
+.w3-hr{margin: 20px 16px;}
+.w3-col.s12.margin{margin: 2px 0;}
+@media(min-width:601px){.w3-col.m6.margin{width:49.66666%;margin-left: 0.15%; margin-right: 0.15%}}
+@media(min-width:993px){.w3-col.l4.margin{width:33%;margin-left: 0.15%; margin-right: 0.15%}}
